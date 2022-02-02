@@ -40,3 +40,8 @@ places to ask questions about the Go language.
 
 [rf]: https://reneefrench.blogspot.com/
 [cc3-by]: https://creativecommons.org/licenses/by/3.0/
+
+### Resources
+See https://go.dev/
+
+Wikipedia https://en.wikipedia.org/wiki/Go_(programming_language)
