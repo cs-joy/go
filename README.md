@@ -42,6 +42,12 @@ places to ask questions about the Go language.
 [cc3-by]: https://creativecommons.org/licenses/by/3.0/
 
 ### Resources
-See https://go.dev/
+See :: https://go.dev/
 
-Wikipedia https://en.wikipedia.org/wiki/Go_(programming_language)
+Wikipedia :: https://en.wikipedia.org/wiki/Go_(programming_language)
+
+A Tour Of GO :: https://go.dev/tour/welcome/1
+
+The Go Programming Language Phrasebook :: https://books.google.com/books?id=scyH562VXZUC
+
+
